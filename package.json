@@ -1,0 +1,17 @@
+{
+  "name": "miniwebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/parser": "^7.16.8",
+    "@babel/preset-env": "^7.16.8",
+    "@babel/traverse": "^7.16.8"
+  }
+}
