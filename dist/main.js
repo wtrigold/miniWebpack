@@ -24,6 +24,6 @@
   './src/hh.js': {
     dependecies: {},
     code:
-      '"use strict";\n\nObject.defineProperty(exports, "__esModule", {\n  value: true\n});\nexports.name = void 0;\nconsole.log(\'我来了\');\nvar name = \'林三心\';\nexports.name = name;'
+      '"use strict";\n\nObject.defineProperty(exports, "__esModule", {\n  value: true\n});\nexports.name = void 0;\nconsole.log(\'我来了\');\nvar name = \'王三金\';\nexports.name = name;'
   }
 })
